@@ -7,3 +7,4 @@ Nesse desafio você deverá fazer com que a classe OrderRepository implemente to
 ```
 npm test
 ```
+![execução](images/print.png)
